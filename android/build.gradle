@@ -26,9 +26,9 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
-android {
-    namespace "io.alexrintt.sharedstorage"
+namespace "io.alexrintt.sharedstorage"
 
+android {
     compileSdkVersion 34
 
     sourceSets {
