@@ -27,7 +27,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.maelchiotti.shared_storage"
+    namespace "io.alexrintt.sharedstorage"
 
     compileSdkVersion 34
 
